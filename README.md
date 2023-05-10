@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Caso queira que apareca na tela inicial, nomear o repositório com o nome de usuário
 
  <div>
    <a href="https://github.com/MarinaNagaro">
